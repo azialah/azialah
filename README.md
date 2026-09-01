@@ -2,25 +2,17 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     🚀  FULL STACK DEVELOPER × PROJECT MANAGER × EDUCATOR   🚀  ║
-║                                                               ║
-║          Building elegant solutions with modern tech         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 **AI-Native Full Stack Developer • Project Manager • Tech Educator**
 
 Building the future of tech, one line of code at a time.
 
-[📧 Email](mailto:johnneomanuel@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/johnneomlpz/) • [📱 +63 094 7421 7919](#) • [🌍 Olongapo City, PH](#)
+[📧 johnneomanuel@gmail.com](mailto:johnneomanuel@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/johnneomlpz/) • [📱 +63 094 7421 7919](tel:+639047421719) • [🌍 Olongapo City, PH](#)
 
-[![](https://img.shields.io/badge/Based%20in-Olongapo%20City%2C%20PH-blue?style=flat-square)](https://maps.app.goo.gl)
-[![](https://img.shields.io/badge/Currently-PM%20%2F%20Dev%20%40%20Ventures52-success?style=flat-square)](https://ventures52.vercel.app)
-[![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](#)
+---
+
+[![📍 Olongapo City, Zambales, Philippines](https://img.shields.io/badge/📍-Olongapo%20City%2C%20Zambales%2C%20Philippines-blue?style=flat-square&labelColor=1f6feb)](mailto:johnneomanuel@gmail.com)
+[![🚀 Project Manager / Developer @ Ventures52](https://img.shields.io/badge/🚀-Project%20Manager%20/%20Developer%20%40%20Ventures52-success?style=flat-square&labelColor=238636)](mailto:johnneomanuel@gmail.com)
+[![💬 Open to Opportunities](https://img.shields.io/badge/💬-Open%20to%20Opportunities-brightgreen?style=flat-square&labelColor=238636)](mailto:johnneomanuel@gmail.com)
 
 </div>
 
@@ -48,6 +40,7 @@ I specialize in building production-grade applications using cutting-edge techno
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -86,30 +79,13 @@ I specialize in building production-grade applications using cutting-edge techno
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/azialah?style=social&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/azialah?style=social&logo=github)
-
-<!-- GitHub Stats -->
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=azialah&show_icons=true&theme=dark&hide_border=true)](https://github.com/azialah)
-
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azialah&layout=compact&theme=dark&hide_border=true)](https://github.com/azialah)
-
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🦅 [Agilearn](https://github.com/azialah/agilearn) — School Management Platform
 **Modern LMS with Awwwards-Inspired Design**
 
 A feature-rich learning management system for teachers and administrators with beautiful, award-inspired animations.
-- **Tech Stack:** React 19, TypeScript, Supabase, TailwindCSS, Vercel
+- **Tech Stack:** React 19, TypeScript, Vite, Supabase, TailwindCSS, Vercel
 - **Features:** Grade sheets, attendance management, teaching modules, cloud storage, animated UI
 - **Live:** [agilearn.vercel.app](https://agilearn.vercel.app)
 
@@ -118,8 +94,8 @@ A feature-rich learning management system for teachers and administrators with b
 ### 🤖 [AI-Integrated Smart Hiring Platform](https://github.com/azialah/ai-integrated-smart-hiring-platform)
 **Agentic AI Job Application System**
 
-Built during a **24-hour hackathon**, this platform uses Claude AI to revolutionize job applications in logistics and shipping.
-- **Tech Stack:** TypeScript, Claude Agentic AI, React
+Built during a **24-hour hackathon**, this Next.js-powered platform uses Claude AI to revolutionize job applications in logistics and shipping.
+- **Tech Stack:** Next.js 14, TypeScript, React 18, Claude Agentic AI, TailwindCSS
 - **Features:** Intelligent job matching, AI-powered candidate screening, industry-specific workflows
 - **Live:** [ai-integrated-smart-hiring-platform.netlify.app](https://ai-integrated-smart-hiring-platform.netlify.app/)
 - **License:** MIT
@@ -193,7 +169,7 @@ Leading **5-person intern team** building production systems:
 ---
 
 ### **Instructor I (Part-time)** — Gordon College
-*Aug 2024 – Present*
+*August 2025 – Present*
 
 Teaching and mentoring the next generation of computer scientists:
 - 📚 **Structured lectures** on computer architecture, memory systems, and hardware fundamentals
@@ -249,7 +225,7 @@ Maintained operations and logistics:
 
 | Category | Skills |
 |----------|--------|
-| **Frontend** | React 19, TypeScript, TailwindCSS, Bootstrap, Vite, TanStack Router |
+| **Frontend** | React 19, Next.js, TypeScript, TailwindCSS, Bootstrap, Vite, TanStack Router |
 | **Backend** | Node.js, Express.js, PHP, Python, Firebase, Supabase, MySQL |
 | **AI & ML** | Claude AI, ChatGPT, LLM integration, Machine Learning, LSTM, TensorFlow |
 | **Project Management** | Jira, Agile/Scrum, team leadership, timeline estimation, risk management |
@@ -262,7 +238,7 @@ Maintained operations and logistics:
 
 <div align="center">
 
-**📧 [Email](mailto:johnneomanuel@gmail.com)** • **💼 [LinkedIn](https://www.linkedin.com/in/johnneomlpz/)** • **🐙 [GitHub](https://github.com/azialah)** • **📱 +63 0947 421 7919**
+**📧 [johnneomanuel@gmail.com](mailto:johnneomanuel@gmail.com)** • **💼 [LinkedIn](https://www.linkedin.com/in/johnneomlpz/)** • **🐙 [GitHub](https://github.com/azialah)** • **📱 [+63 0947 421 7919](tel:+639047421719)**
 
 **Olongapo City, Zambales, Philippines**
 
